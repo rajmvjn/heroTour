@@ -8,5 +8,4 @@ import { HerosComponent } from './heros/heros.component';
 })
 export class AppComponent {
   title = 'Tour of Heros';
-  
 }
